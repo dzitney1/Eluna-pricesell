@@ -1,5 +1,5 @@
 # Eluna-pricesell
- A lua script pricing and selling items based on AH data from nexushub with Eluna.
+ A lua script for pricing and selling items based on AH data from nexushub with Eluna.
 
  This is a script for selling and pricing items using marketdata from NexusHub.
 In it's default configuration it will check the market value of the linked item on eu/us servers for the last 16 months
